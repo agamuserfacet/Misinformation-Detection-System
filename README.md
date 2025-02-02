@@ -1,6 +1,5 @@
 # **InfoGuardians: Misinformation Detection and Verification System**
 
-![Project Logo](https://via.placeholder.com/150)  
 *Empowering users to distinguish credible information from misinformation.*
 
 ---
@@ -10,12 +9,6 @@
 2. [Features](#features)
 3. [Technology Stack](#technology-stack)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Screenshots](#screenshots)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
-
 ---
 
 ## **Introduction**
@@ -47,5 +40,4 @@ Follow these steps to set up the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/InfoGuardians.git
-   cd InfoGuardians
+   git clone [https://github.com/your-username/InfoGuardians.git](https://github.com/agamuserfacet/Misinformation-Detection-System.git)
